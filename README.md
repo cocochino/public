@@ -1,5 +1,5 @@
 # public
-This repository contains code I wrote for online classes and personal projects
+Repository contains code I wrote for online classes and personal projects in 2018
 
 ## dana
 Python, Pandas, Numpy, SQL. From Udacity Data Analysis Nanodegree projects.
